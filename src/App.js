@@ -1,6 +1,6 @@
 import './App.css';
 import {Heading} from '@chakra-ui/react';
-import Todo from './components/todo';
+import Todo from './components/todo';     
 import CreateTodo from './components/createTodo';
 import { VStack, IconButton, useColorMode } from '@chakra-ui/react'
 import { FaSun, FaMoon } from "react-icons/fa";
